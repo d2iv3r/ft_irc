@@ -93,8 +93,14 @@ As a bonus, the project includes a **moderator bot** that monitors messages in a
 
 3. The bot will automatically monitor messages and moderate the channel.
 
+## Subject
+https://cdn.intra.42.fr/pdf/pdf/147356/en.subject.pdf
+
+
 ## Teammates
 
 This project was developed collaboratively by:
 
 - **Hamza Chahboune**:  [GitHub Profile](https://github.com/hachahbo)
+
+---
